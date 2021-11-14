@@ -23,13 +23,11 @@ print(f'''
                                .dK0xddddk0k'  .o:.;o:   cOOxddddkKKc
                                  .;:cccc:'.    'cld:     .,:cccc:,.
                                                 ....
-                                                            {red}    Zae3m Edit
-                                                                {wh}          https://t.me/spam_dollarers
                / /   ____ __________ __   _____  / /  /  |/  /___  ____  _____/ /____  _____ {yl}
               / /   / __ `/ ___/ __ `/ | / / _ \/ /  / /|_/ / __ \/ __ \/ ___/ __/ _ \/ ___/ {ble}
     {wh}         / /___/ /_/ / /  / /_/ /| |/ /  __/ /  / /  / / /_/ / / / (__  ) /_/  __/ /
     {ble}        /_____/\__,_/_/   \__,_/ |___/\___/_/  /_/  /_/\____/_/ /_/____/\__/\___/_/  {red}V2
-                                          {wh}Welcome to the {red}LaravelFucker{res}
+                                          {wh}Welcome to the {red}LaravelFucker by TheLast74{res}
                              {gr}Free${res} {ble}Lifetime{res}, {red}High Quality Private Tool{res}   
                                           
                                           
@@ -77,4 +75,4 @@ if choice == '11':
 if choice == '12':
     os.system('cmd /k "py Scripts/10/up.py"')
 if choice == '13':
-    print(f'Please Contact {red}Zae3m{res} For Updates.\n                   {ble}https://t.me/ZAE3M{res}')
+    print(f'Please Contact {red}The Last74{res} For Updates.\n                   {ble}https://t.me/xlast74{res}')
